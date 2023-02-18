@@ -12,9 +12,9 @@ Com as informações de mais de 10.000 clientes de um Banco fictício, a ideia e
 <br>
 
 ## Informações importantes:
-- Redis instalado em uma máquina virtual Linux Ubuntu;
-- Ambiente de desenvolvimento Visual Studio Code configurado para utilização da linguagem Python;
-- Instalação de bibliotecas importantes do Python como Redis.py e Pandas.
+- O Redis foi instalado em uma máquina virtual Linux Ubuntu, após ter sido feita a instalação do WSL (Subsistema do Windows que permite utilizar o Linux);
+- Ambiente de desenvolvimento do Visual Studio Code configurado para utilização da linguagem Python, versão 3.11;
+- Bibliotecas importantes do Python como Redis.py e Pandas foram essenciais;
 - Mais detalhes dos códigos utilizados estão descritos no arquivo principal: <strong>conectar-redis-e-python.py</strong>.
 <br>
 
